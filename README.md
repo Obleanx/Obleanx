@@ -10,7 +10,7 @@ src=https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 
 <p align="left"> <a href="https://twitter.com/adam obonyilo" target="blank"><img src="https://img.shields.io/twitter/follow/adam obonyilo?logo=twitter&style=for-the-badge" alt="adam obonyilo" /></a> </p>
 
-- 🔭 I’m currently working on **A SaAS MVP For a Start-up in Nigeria to Help manage Business and Administrative Activities in Targeted Institutions.**
+ 🚀 Currently, I'm immersed in the development of a cutting-edge SaaS MVP for a startup based in Nigeria. Our aim is to revolutionize how targeted institutions manage their business and administrative activities. This project is not just about coding; it's about crafting solutions that empower businesses and drive efficiency. From ideation to implementation, I'm dedicated to delivering a transformative tool that will make a tangible impact in the Nigerian business landscape. 🌍💼 Let's innovate together and pave the way for enhanced productivity and success!**
 
 🚀 I've mastered Flutter and Dart, and I'm exploring new possibilities with them!**
 
