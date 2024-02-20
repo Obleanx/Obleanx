@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Leo Obonyilo, a passionate flutter developer who loves to code and create awesome software. My skills range from Creative Arts to Programming.</h1>
+<h1 align="center">Hi 👋, I'm Leo Adam Obonyilo, a passionate flutter developer who loves to code and create awesome software and learn about technology. My skills range from Creative Arts to Programming.</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 src=https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 
