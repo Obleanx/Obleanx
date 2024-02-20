@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm I'm Leo Obonyilo, a passionate flutter developer who loves to code and create awesome software. My skills range from Creative Arts to Flutter/dart Programming.</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm I'm Leo Obonyilo, a passionate flutter developer who loves to code and create awesome software. My skills range from Creative Arts to Programming.</h1>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 src=https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obleanx&label=Profile%20views&color=0e75b6&style=flat" alt="obleanx" /> </p>
@@ -12,15 +12,15 @@ src=https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 
 - 🔭 I’m currently working on **A SaAS MVP For a Start-up in Nigeria to Help manage Business and Administrative Activities in Targeted Institutions.**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+🚀 I've mastered Flutter and Dart, and I'm exploring new possibilities with them!**
 
-- 👯 I’m looking to collaborate on **Feel free to reach out if you want to collaborate on a project or just have a chat.**
+🌟 I'm Opened and Excited to join forces on innovative projects! Don't hesitate to connect if you're interested in collaborating on a project or simply want to have an engaging conversation. Let's make magic together! ✨**
 
-- 💬 Ask me about **Cross platform Programing**
+🌟 Thrilled to embark on collaborative ventures in the realm of technology! Whether you're seeking a partner for a groundbreaking software project or craving an insightful dialogue on the latest tech trends and emerging opportunities, I'm here to dive in with you. Let's ignite innovation and drive business success in the ever-evolving landscape of technology! Don't hesitate to reach out if you're keen to explore cross-platform programming, delve into the intricacies of Flutter and Dart, or discuss how to seize the emerging prospects in the tech industry. Together, we can shape the future of technology and unlock limitless possibilities! 💼💻✨**
 
 - 📫 How to reach me **adamobonyilo@gmail.com**
 
-- ⚡ Fun fact **- I love Singing Classical Music and Playing Call Of Duty.. - My Favorite programming meme: "Stack Overflow is my second home."**
+- ⚡ Fun fact **- I love listening to Classical Music and Playing Call Of Duty.. - My Favorite programming meme: "Stack Overflow is my second home."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
